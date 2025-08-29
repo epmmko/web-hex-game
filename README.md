@@ -1,5 +1,10 @@
 # web-hex-game
 Hex-game served on the web with ReactJS / JavaScript
+
+Gamplay with 4X speed.
+https://github.com/user-attachments/assets/492f67be-79fe-400a-a537-9f6948050c28 <br/>
+Game deployed at https://epmmko.pythonanywhere.com/hex-game
+
 ## Steps to use the source code
 * If using anaconda, install nodejs via `conda install nodejs`
 * Activate the environment that has the nodejs, then create react app from
